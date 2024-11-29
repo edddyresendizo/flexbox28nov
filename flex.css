@@ -48,8 +48,9 @@
 .flex {
     display: flex;
     height: 600px;
-    flex-wrap: wrap;
+    flex-flow: wrap;
     justify-content: space-between;
+    align-items: center;
 }
 #botón {
     display: flex;
