@@ -6,36 +6,43 @@
     width: 200px;
     height: 200px;
     background: red;
+    border: 2px solid black;
 }
 .box-2 {
     width: 200px;
     height: 200px;
     background: green;
+    border: 2px solid black;
 }
 .box-3 {
     width: 200px;
     height: 200px;
     background: blue;
+    border: 2px solid black;
 }
 .box-4 {
     width: 200px;
     height: 200px;
     background: yellow;
+    border: 2px solid black;
 }
 .box-5 {
     width: 200px;
     height: 200px;
     background: pink;
+    border: 2px solid black;
 }
 .box-6 {
     width: 200px;
     height: 200px;
     background: purple;
+    border: 2px solid black;
 }
 .box-7 {
     width: 200px;
     height: 200px;
     background: peru;
+    border: 2px solid black;
 }
 
 .flex {
@@ -43,4 +50,8 @@
     height: 600px;
     flex-wrap: wrap;
     justify-content: space-between;
+}
+#botón {
+    display: flex;
+    justify-content: center;
 }
